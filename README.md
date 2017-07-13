@@ -14,7 +14,7 @@ De Novo Repeat Classification and Fragment Assembly
 
 Paul A. Pevzner, Haixu Tang, Glenn Tesler
 
-DOI http://www.genome.org/cgi/doi/10.1101/gr.2395204 Genome Research (2004)
+DOI http://doi.org/10.1101/gr.2395204 Genome Research (2004)
 
 ## June 29 (Rachel Sherman)
 
@@ -38,7 +38,7 @@ WASP: allele-specific software for robust molecular quantitative trait locus dis
 
 Bryce van de Geijn, Graham McVicker, Yoav Gilad, Jonathan K. Pritchard
 
-DOI 10.1038/nmeth.3582 Nature Methods (2015)
+DOI https://doi.org/10.1038/nmeth.3582 Nature Methods (2015)
 
 
 ## June 1 (Charlotte Darby)
@@ -48,4 +48,4 @@ AlleleSeq: analysis of allele‐specific expression and binding in a network fra
 Joel Rozowsky, Alexej Abyzov, Jing Wang, Pedro Alves, Debasish Raha, Arif Harmanci, Jing Leng, Robert Bjornson, Yong Kong, Naoki Kitabayashi, Nitin Bhardwaj, Mark Rubin, Michael Snyder, Mark Gerstein
 
 
-DOI 10.1038/msb.2011.54 Molecular Systems Biology (2011)
+DOI https://doi.org/10.1038/msb.2011.54 Molecular Systems Biology (2011)
