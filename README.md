@@ -32,6 +32,7 @@ Martin D. Muggli, Alexander Bowe, Noelle R. Noyes, Paul Morley, Keith Belk, Robe
 
 DOI https://doi.org/10.1093/bioinformatics/btx067 Bioinformatics (2017)
 
+
 ## June 15 (Sam Kovaka)
 
 A new strategy to reduce allelic bias in RNA-Seq readmapping
@@ -39,6 +40,7 @@ A new strategy to reduce allelic bias in RNA-Seq readmapping
 Ravi Vijaya Satya, Nela Zavaljevski, Jaques Reifman
 
 DOI https://doi.org/10.1093/nar/gks425 Nucleic Acids Research (2012)
+
 
 ## June 8 (Rhyker Ranallo-Benavidez)
 
