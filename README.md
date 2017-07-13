@@ -20,7 +20,7 @@ DOI http://www.genome.org/cgi/doi/10.1101/gr.2395204 Genome Research (2004)
 
 Succinct Colored De Bruijn Graphs
 
-Martin D. Muggli  Alexander Bowe  Noelle R. Noyes  Paul Morley  Keith Belk Robert Raymond  Travis Gagie  Simon J. Puglisi, Christina Boucher
+Martin D. Muggli, Alexander Bowe, Noelle R. Noyes, Paul Morley, Keith Belk, Robert Raymond, Travis Gagie, Simon J. Puglisi, Christina Boucher
 
 DOI https://doi.org/10.1093/bioinformatics/btx067 Bioinformatics (2017)
 
