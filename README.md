@@ -8,7 +8,21 @@ Next topic: long read sequencing
 
 Past topics:
 
-## June 22 
+## July 13 (Taher Mun)
+
+De Novo Repeat Classification and Fragment Assembly
+
+Paul A. Pevzner, Haixu Tang, Glenn Tesler
+
+DOI http://www.genome.org/cgi/doi/10.1101/gr.2395204 Genome Research (2004)
+
+## June 29 (Rachel Sherman)
+
+Succinct Colored De Bruijn Graphs
+
+Martin D. Muggli  Alexander Bowe  Noelle R. Noyes  Paul Morley  Keith Belk Robert Raymond  Travis Gagie  Simon J. Puglisi, Christina Boucher
+
+DOI https://doi.org/10.1093/bioinformatics/btx067 Bioinformatics (2017)
 
 ## June 15 (Sam Kovaka)
 
