@@ -2,11 +2,19 @@
 Thursdays 5-6PM, Johns Hopkins Homewood, Malone 203  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Graph genomes
+Current topic: Long Read Sequncing
 
-Next topic: long read sequencing
+Next topic: 
 
-Past topics:
+Past topics: Graph genomes (June 1 - July 13)
+
+## July 20 (Yunfan Fan)
+
+A complete bacterial genome assembled de novo using only nanopore sequencing data
+
+Nicholas J Loman,	Joshua Quick, Jared T Simpson
+
+DOI http://doi.org/10.1038/nmeth.3444 Nature Methods (2015)
 
 ## July 13 (Taher Mun)
 
