@@ -2,7 +2,7 @@
 Thursdays 5-6PM, Johns Hopkins Homewood, Malone 203  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: variant-aware reference genomes
+Current topic: Graph genomes
 
 Next topic: long read sequencing
 
