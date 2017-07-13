@@ -32,6 +32,7 @@ Martin D. Muggli, Alexander Bowe, Noelle R. Noyes, Paul Morley, Keith Belk, Robe
 
 DOI https://doi.org/10.1093/bioinformatics/btx067 Bioinformatics (2017)
 
+Super helpful blog post: http://alexbowe.com/succinct-debruijn-graphs/
 
 ## June 15 (Sam Kovaka)
 
