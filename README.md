@@ -2,9 +2,9 @@
 Thursdays 5-6PM, Johns Hopkins Homewood, Malone 203  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Long Read Sequncing
+Current topic: Long Read Sequncing (July 20 - present)
 
-Next topic: 
+Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13)
 
