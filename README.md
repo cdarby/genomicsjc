@@ -8,6 +8,14 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13)
 
+## July 27 (Sam Kovaka)
+
+BasecRAWller: Streaming Nanopore Basecalling Directly from Raw Signal
+
+Marcus Stoiber, James Brown
+
+Paper http://www.biorxiv.org/content/biorxiv/early/2017/05/01/133058.full.pdf BioRxiv
+
 ## July 20 (Yunfan Fan)
 
 A complete bacterial genome assembled de novo using only nanopore sequencing data
