@@ -8,13 +8,21 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13)
 
+## August 3 (Charlotte Darby)
+
+Direct determination of diploid genome sequences  
+
+Neil I Weisenfeld, Vijay Kumar, Preyas Shah, Deanna M Church, David B Jaffe  
+
+DOI http://doi.org/10.1101/gr.214874.116 Genome Research (2017)
+
 ## July 27 (Sam Kovaka)
 
 BasecRAWller: Streaming Nanopore Basecalling Directly from Raw Signal
 
 Marcus Stoiber, James Brown
 
-Paper http://www.biorxiv.org/content/biorxiv/early/2017/05/01/133058.full.pdf BioRxiv
+Paper http://www.biorxiv.org/content/biorxiv/early/2017/05/01/133058.full.pdf BioRxiv (2017)
 
 ## July 20 (Yunfan Fan)
 
