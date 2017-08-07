@@ -8,6 +8,15 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13)
 
+## August 10 (Rhyker Ranallo-Benavidez)
+
+Nonhybrid, finished microbial genome assemblies from long-read smrt sequencing data
+
+Chen-Shan Chin, David H Alexander, Patrick Marks, Aaron A Klammer, James Drake, Cheryl Heiner,
+Alicia Clum, Alex Copeland, John Huddleston, Evan E Eichler, Stephen W Turner, Jonas Korlach
+
+DOI http://doi.org/10.1038/nmeth.2474
+
 ## August 3 (Charlotte Darby)
 
 Direct determination of diploid genome sequences  
