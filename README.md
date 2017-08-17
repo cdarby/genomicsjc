@@ -8,6 +8,14 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13)
 
+## August 17 (Taher Mun)
+
+Minimap2: fast pairwise alignment for long DNA sequences
+
+Heng Li
+
+arXiv:1708.01492
+
 ## August 10 (Rhyker Ranallo-Benavidez)
 
 Nonhybrid, finished microbial genome assemblies from long-read smrt sequencing data
