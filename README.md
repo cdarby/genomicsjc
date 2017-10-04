@@ -1,5 +1,5 @@
 # Genomics Journal Club
-Thursdays 5-6PM, Johns Hopkins Homewood, Malone 203  
+Every other Thursday 5-6PM beginning October 5, 2017, Johns Hopkins Homewood, Malone 222  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
 Current topic: Long Read Sequncing (July 20 - present)
