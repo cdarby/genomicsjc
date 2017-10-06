@@ -2,11 +2,27 @@
 Every other Thursday 5-6PM beginning October 5, 2017, Johns Hopkins Homewood, Malone 222  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Long Read Sequncing (July 20 - present)
+Current topic: Repetitive DNA and transposable elements (October 12 - present)  
 
 Next topic: TBD
 
-Past topics: Graph genomes (June 1 - July 13)
+Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17)  
+
+## October 12 (Yunfan Fan)
+
+Linear Assembly of a Human Y Centromere using Nanopore Long Reads  
+
+Miten Jain, Hugh E. Olsen, Daniel J. Turner, David Stoddart, Kira V. Bulazel, Benedict Paten, David Haussler, Huntington Willard, Mark Akeson, Karen H. Miga  
+
+doi: 10.1101/170373 bioRxiv (2017)
+
+## October 5 (Charlotte Darby)
+
+Coming of age: ten years of next-generation sequencing technologies  
+
+Sara Goodwin, John D. McPherson, W. Richard McCombie  
+
+doi:10.1038/nrg.2016.49 Nature Reviews Genetics (2016)
 
 ## August 17 (Taher Mun)
 
@@ -14,7 +30,7 @@ Minimap2: fast pairwise alignment for long DNA sequences
 
 Heng Li
 
-arXiv:1708.01492
+arXiv:1708.01492 arXiv (2017)
 
 ## August 10 (Rhyker Ranallo-Benavidez)
 
@@ -23,7 +39,7 @@ Nonhybrid, finished microbial genome assemblies from long-read smrt sequencing d
 Chen-Shan Chin, David H Alexander, Patrick Marks, Aaron A Klammer, James Drake, Cheryl Heiner,
 Alicia Clum, Alex Copeland, John Huddleston, Evan E Eichler, Stephen W Turner, Jonas Korlach
 
-DOI http://doi.org/10.1038/nmeth.2474
+DOI http://doi.org/10.1038/nmeth.2474 Nature Meethods (2013)
 
 ## August 3 (Charlotte Darby)
 
