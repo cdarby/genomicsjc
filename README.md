@@ -1,12 +1,40 @@
 # Genomics Journal Club
-Every other Thursday 5-6PM beginning October 5, 2017, Johns Hopkins Homewood, Malone 222  
+Every other Thursday 5-6PM, Johns Hopkins Homewood, Malone Hall  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Repetitive DNA and transposable elements (October 12 - present)  
+Current topic: Data Structures (February 22 only)   
 
-Next topic: TBD
+Next topic: Epigenetics (begins March 8)
 
-Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17)  
+Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28)   
+
+## February 22 (Taher Mun)
+
+A General-Purpose Counting Filter: Making Every Bit Count  
+Prashant Pandey, Michael A. Bender, Rob Johnson, Rob Patro  
+doi: 10.1145/3035918.3035963 SIGMOD Proceedings (2017)  
+
+Mantis: A Fast, Small, and Exact Large-Scale Sequence Search Index  
+Prashant Pandey, Fatemeh Almodaresi, Michael A. Bender, Michael Ferdman, Rob Johnson, Rob Patro  
+doi: 10.1101/217372 bioRxiv (2017)
+
+## November 28 (Sam Kovaka)
+
+Landscape of Somatic Retrotransposition in Human Cancers  
+
+Eunjung Lee et al.  
+
+doi: 10.1126/science.1222077 Science (2012)
+
+## November 16 (Mike Alonge)
+
+The B73 Maize Genome: Complexity, Diversity, and Dynamics  
+Patrick S. Schnable et al.  
+doi: 10.1126/science.1178534 Science (2009)  
+
+Improved maize reference genome with single-molecule technologies  
+Yinping Jiao et al.  
+doi: 10.1038/nature22971 Nature (2017)
 
 ## October 12 (Yunfan Fan)
 
