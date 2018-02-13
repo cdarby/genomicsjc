@@ -8,7 +8,7 @@ Next topic: Epigenetics (begins March 8)
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28)   
 
-## February 22 (Taher Mun)
+## February 15 (Taher Mun) *Malone 203*
 
 A General-Purpose Counting Filter: Making Every Bit Count  
 Prashant Pandey, Michael A. Bender, Rob Johnson, Rob Patro  
