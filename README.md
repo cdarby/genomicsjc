@@ -2,21 +2,23 @@
 Every other Thursday 5-6PM, Johns Hopkins Homewood, Malone Hall  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Data Structures (February 22 only)   
+Current topic: Epigenetics (begins March 8)  
 
-Next topic: Epigenetics (begins March 8)
+Next topic: TBD
 
-Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28)   
+Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
 
-## February 15 (Taher Mun) *Malone 203*
-
-A General-Purpose Counting Filter: Making Every Bit Count  
-Prashant Pandey, Michael A. Bender, Rob Johnson, Rob Patro  
-doi: 10.1145/3035918.3035963 SIGMOD Proceedings (2017)  
+## February 22 (Daniel Baker)  
 
 Mantis: A Fast, Small, and Exact Large-Scale Sequence Search Index  
 Prashant Pandey, Fatemeh Almodaresi, Michael A. Bender, Michael Ferdman, Rob Johnson, Rob Patro  
 doi: 10.1101/217372 bioRxiv (2017)
+
+## February 15 (Taher Mun)  
+
+A General-Purpose Counting Filter: Making Every Bit Count  
+Prashant Pandey, Michael A. Bender, Rob Johnson, Rob Patro  
+doi: 10.1145/3035918.3035963 SIGMOD Proceedings (2017)  
 
 ## November 28 (Sam Kovaka)
 
