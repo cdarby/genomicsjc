@@ -2,11 +2,19 @@
 Every other Thursday 5-6PM, Johns Hopkins Homewood, Malone Hall  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Epigenetics (begins March 8)  
+Current topic: Epigenetics  
 
 Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
+
+## February 22 (Mike Alonge)  
+
+Loss of *Karma* transposon methylation underlies the mantled somaclonal variant of oil palm  
+
+Meilina Ong-Abdullah et al. 
+
+doi: 10.1038/nature15365 Nature 2015
 
 ## February 22 (Daniel Baker)  
 
