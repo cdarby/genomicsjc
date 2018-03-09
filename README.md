@@ -8,13 +8,21 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
 
+## April 5 (Yunfan Fan)  
+
+Metagenomic binning and association of plasmids with bacterial host genomes using DNA methylation
+
+John Beaulaurier et al.
+
+doi: 10.1038/nbt.4037 Nature Biotechnology (2018)
+
 ## February 22 (Mike Alonge)  
 
 Loss of *Karma* transposon methylation underlies the mantled somaclonal variant of oil palm  
 
 Meilina Ong-Abdullah et al. 
 
-doi: 10.1038/nature15365 Nature 2015
+doi: 10.1038/nature15365 Nature (2015)
 
 ## February 22 (Daniel Baker)  
 
