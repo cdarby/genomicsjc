@@ -8,6 +8,14 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
 
+## April 18 (Charlotte Darby)  
+
+The Key Role of Epigenetics in Human Disease Prevention and Mitigation
+
+Andrew P. Feinberg
+
+doi: 10.1056/NEJMra1402513 New England Journal of Medicine (2018)
+
 ## April 5 (Yunfan Fan)  
 
 Metagenomic binning and association of plasmids with bacterial host genomes using DNA methylation
