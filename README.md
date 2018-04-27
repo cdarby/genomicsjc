@@ -8,6 +8,22 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
 
+## May 17 (Daniel Baker)  
+
+SpliceVec: Distributed feature representations for splice junction prediction
+
+Aparajita Dutta, Tushar Dubey, Kusum Kumari Singh, Ashish Ananda
+
+doi: 10.1016/j.compbiolchem.2018.03.009 Computational Biology and Chemistry (2018)
+
+## May 3 (Sam Kovaka)  
+
+Analysis of RNA base modification and structural rearrangement by single-molecule real-time detection of reverse transcription
+
+Igor Vilfan et al.
+
+doi: 10.1186/1477-3155-11-8 J Nanobiotechnology (2013)
+
 ## April 18 (Charlotte Darby)  
 
 The Key Role of Epigenetics in Human Disease Prevention and Mitigation
