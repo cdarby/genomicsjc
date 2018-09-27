@@ -2,11 +2,19 @@
 Every other Thursday 5-6PM, Johns Hopkins Homewood, Malone Hall  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
-Current topic: Epigenetics  
+Current topic: Please volunteer to present any paper related to genomics!    
 
-Next topic: TBD
+Next topic: TBD  
 
-Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22)      
+Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22); Epigenetics (April 5 - May 3)    
+
+## September 27 (Mike Alonge)  
+
+Nucl2Vec: Local alignment of DNA sequences using Distributed Vector Representation  
+
+Prakhar Ganesh, Gaurav Gupta, Shubhi Saini, Kolin Paul  
+
+doi: 10.1101/401851  bioRxiv (2018)  
 
 ## May 17 (Daniel Baker)  
 
