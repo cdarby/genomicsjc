@@ -10,11 +10,11 @@ Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - A
 
 ## September 27 (Mike Alonge)  
 
-Nucl2Vec: Local alignment of DNA sequences using Distributed Vector Representation  
+Engineering Quantitative Trait Variation for Crop Improvement by Genome Editing  
 
-Prakhar Ganesh, Gaurav Gupta, Shubhi Saini, Kolin Paul  
+Rodríguez-Leal et al.  
 
-doi: 10.1101/401851  bioRxiv (2018)  
+https://doi.org/10.1016/j.cell.2017.08.030 
 
 ## May 17 (Daniel Baker)  
 
