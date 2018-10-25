@@ -8,6 +8,20 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22); Epigenetics (April 5 - May 3)    
 
+## November 1 (Sam Kovaka)
+
+Using long-read sequencing to detect imprinted DNA methylation  
+
+Scott Gigante et al.  
+
+doi: https://doi.org/10.1101/445924 bioRxiv (2018)
+
+## October 11 (Charlotte Darby)  
+
+The MUMmer Saga  
+
+"Alignment of Whole Genomes." A.L. Delcher, S. Kasif, R.D. Fleischmann, J. Peterson, O. White, and S.L. Salzberg, Nucleic Acids Research, 27:11 (1999), 2369-2376.  
+
 ## September 27 (Mike Alonge)  
 
 Engineering Quantitative Trait Variation for Crop Improvement by Genome Editing  
