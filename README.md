@@ -8,6 +8,14 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22); Epigenetics (April 5 - May 3)    
 
+## November 15 (Taher Mun)  
+
+An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search  
+
+Fatemeh Almodaresi, Prashant Pandey, Michael Ferdman, Rob Johnson, Rob Patro  
+
+doi: https://doi.org/10.1101/464222 bioRxiv (2018)
+
 ## November 1 (Sam Kovaka)
 
 Using long-read sequencing to detect imprinted DNA methylation  
