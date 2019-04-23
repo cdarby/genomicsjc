@@ -8,6 +8,44 @@ Next topic: TBD
 
 Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22); Epigenetics (April 5 - May 3)    
 
+## April 25 (Charlotte Darby)
+
+The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight. 
+
+Francine E. Garrett-Bakelman et al.  
+
+doi: 10.1126/science.aau8650 Science (2019)
+
+## April 11 (Michael Kirsche)
+
+"Fast and accurate long-read assembly with wtdbg2." Jue Ruan and Heng Li. doi: https://doi.org/10.1101/530972 bioRxiv (2019)  
+
+"Assembly of Long Error-Prone Reads Using Repeat Graphs." Mikhail Kolmogorov, Jeffrey Yuan, Yu Lin, Pavel. A. Pevzner. doi: https://doi.org/10.1101/247148 bioRxiv (2018)
+
+## March 14 (Daniel Baker)
+
+BagMinHash - Minwise Hashing Algorithm for Weighted Sets.
+
+Otmar Ertl
+
+doi: https://doi.org/10.1145/3219819.3220089 arXiv (2018)
+
+## February 13 (Taher Mun)  
+
+Locality sensitive hashing for the edit distance.
+
+Guillaume Marcais, Dan DeBlasio, Prashant Pandey, Carl Kingsford
+
+doi: https://doi.org/10.1101/534446 bioRxiv (2019)
+
+## November 29 (Katie Jenike)
+
+Nanopore native RNA sequencing of a human poly(A) transcriptome.  
+
+Rachael E. Workman et al.  
+
+doi: https://doi.org/10.1101/459529 bioRxiv (2018)  
+
 ## November 15 (Taher Mun)  
 
 An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search  
