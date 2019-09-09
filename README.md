@@ -25,7 +25,7 @@ Francine E. Garrett-Bakelman et al.
 
 doi: 10.1126/science.aau8650 Science (2019)
 
-## April 11 (Michael Kirsche)
+## April 11 (Melanie Kirsche)
 
 "Fast and accurate long-read assembly with wtdbg2." Jue Ruan and Heng Li. doi: https://doi.org/10.1101/530972 bioRxiv (2019)  
 
