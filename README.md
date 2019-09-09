@@ -1,12 +1,21 @@
 # Genomics Journal Club
-Every other Thursday 5-6PM, Johns Hopkins Homewood, Malone Hall  
+Every other Wednesday 4:30-5:30PM, Johns Hopkins Homewood, Malone Hall  
 Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
 
 Current topic: Please volunteer to present any paper related to genomics!    
 
-Next topic: TBD  
+Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposable elements; Data Structures; Epigenetics  
 
-Past topics: Graph genomes (June 1 - July 13); Long read sequencing (July 20 - August 17); Repetitive DNA and transposable elements (October 12 - November 28); Data Structures (February 15, 22); Epigenetics (April 5 - May 3)    
+
+| Date  | Presenter | Location | 
+| ------------- | ------------- |  ------------- |
+| September 18  | Charlotte  | Malone TBD |
+| October 2  |   | |
+| October 16  |   | |
+| October 30  |   | |
+| November 13  |   | |
+| November 27  |   | |
+| December 11  |   | |
 
 ## April 25 (Charlotte Darby)
 
@@ -16,7 +25,7 @@ Francine E. Garrett-Bakelman et al.
 
 doi: 10.1126/science.aau8650 Science (2019)
 
-## April 11 (Melanie Kirsche)
+## April 11 (Michael Kirsche)
 
 "Fast and accurate long-read assembly with wtdbg2." Jue Ruan and Heng Li. doi: https://doi.org/10.1101/530972 bioRxiv (2019)  
 
