@@ -7,9 +7,9 @@ Current topic: Please volunteer to present any paper related to genomics!
 Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposable elements; Data Structures; Epigenetics  
 
 
-| Date  | Presenter | Location | 
-| ------------- | ------------- |  ------------- |
-| September 18  | Charlotte  | Malone TBD |
+| Date  | Presenter | Location | Paper | 
+| ------------- | ------------- |  ------------- | ------------- |
+| September 18  | Charlotte  | Malone 228 | https://www.nature.com/articles/s41467-019-11591-1 |
 | October 2  |   | |
 | October 16  |   | |
 | October 30  |   | |
