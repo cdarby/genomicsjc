@@ -10,12 +10,12 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
 | September 18  | Charlotte  | Malone 228 | https://www.nature.com/articles/s41467-019-11591-1 |
-| October 2  |   | |
-| October 16  |   | |
-| October 30  |   | |
-| November 13  |   | |
-| November 27  |   | |
-| December 11  |   | |
+| October 2  | Sam  | |
+| October 16  | Taher  | |
+| October 30  | Mike A.  | |
+| November 13  | Melanie  | |
+| December 4  |  Daniel | |
+| December 11  | Bohan  | |
 
 ## April 25 (Charlotte Darby)
 
