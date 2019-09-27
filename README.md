@@ -256,3 +256,11 @@ Joel Rozowsky, Alexej Abyzov, Jing Wang, Pedro Alves, Debasish Raha, Arif Harman
 
 
 DOI https://doi.org/10.1038/msb.2011.54 Molecular Systems Biology (2011)
+
+## October 2 (Sam Kovaka)
+
+Telomere-to-telomere assembly of a complete human X chromosome
+
+Miga et al.
+
+DOI https://doi.org/10.1101/735928 BioRxiv (2019)
