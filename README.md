@@ -12,8 +12,8 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | September 18  | Charlotte  | Malone 228 | https://www.nature.com/articles/s41467-019-11591-1 |
 | October 2  | Sam  | Malone 228 | https://www.biorxiv.org/content/10.1101/735928v3 |
 | October 16  | Taher  | Malone 107 | https://www.biorxiv.org/content/10.1101/784157v1 |
-| October 30  | Mike A.  | |
-| November 13  | Melanie  | |
+| October 30  | Melanie  | Malone 107 | | 
+| November 13  | Mike A.  | |
 | December 4  |  Daniel | |
 | December 11  | Bohan  | |
 
