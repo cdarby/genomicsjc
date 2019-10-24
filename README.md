@@ -12,7 +12,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | September 18  | Charlotte  | Malone 228 | https://www.nature.com/articles/s41467-019-11591-1 |
 | October 2  | Sam  | Malone 228 | https://www.biorxiv.org/content/10.1101/735928v3 |
 | October 16  | Taher  | Malone 107 | https://www.biorxiv.org/content/10.1101/784157v1 |
-| October 30  | Melanie  | Malone 107 | | 
+| October 30  | Melanie  | Malone 107 | | https://www.biorxiv.org/content/10.1101/810341v1
 | November 13  | Mike A.  | |
 | December 4  |  Daniel | |
 | December 11  | Bohan  | |
@@ -264,3 +264,11 @@ Telomere-to-telomere assembly of a complete human X chromosome
 Miga et al.
 
 DOI https://doi.org/10.1101/735928 BioRxiv (2019)
+
+## October 30 (Melanie Kirsche)
+
+Efficient chromosome-scale haplotype-resolved assembly of human genomes
+
+Shilpa Garg, Arkarachai Fungtammasan, Andrew Carroll, Mike Chou, Anthony Schmitt, Xiang Zhou, Stephen Mac, Paul Peluso, Emily Hatas, Jay Ghurye, Jared Maguire, Medhat Mahmoud, Haoyu Cheng, David Heller, Justin M. Zook, Tobias Moemke, Tobias Marschall, Fritz J. Sedlazeck, John Aach, Chen-Shan Chin, George M. Church, Heng Li
+
+DOI http://doi.org/10.1101/810341 BioRxiv (2019)
