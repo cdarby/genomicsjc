@@ -9,13 +9,46 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
-| September 18  | Charlotte  | Malone 228 | https://www.nature.com/articles/s41467-019-11591-1 |
-| October 2  | Sam  | Malone 228 | https://www.biorxiv.org/content/10.1101/735928v3 |
-| October 16  | Taher  | Malone 107 | https://www.biorxiv.org/content/10.1101/784157v1 |
-| October 30  | Melanie  | Malone 107 | | https://www.biorxiv.org/content/10.1101/810341v1
-| November 20  | Mike A.  | |
-| December 4  |  Daniel | |
-| December 11  | Bohan  | |
+| February 12  | | |
+| February 26  | | |
+| March 11  | | |
+| March 25  | | |
+| April 8  | | |
+| April 22 | | |
+| May 6 | | |
+| May 20 | | |
+
+## October 30 (Melanie Kirsche)
+
+Efficient chromosome-scale haplotype-resolved assembly of human genomes
+
+Shilpa Garg et al.
+
+doi: https://doi.org/10.1101/810341 bioRxiv (2019)
+
+## October 16 (Taher Mun)
+
+Technical artifact drives apparent deviation from Hardy-Weinberg equilibrium at CCR5-∆32 and other variants in gnomAD
+
+Konrad J. Karczewski, Laura D. Gauthier, Mark J. Daly
+
+doi: https://doi.org/10.1101/784157 bioRxiv (2019)
+
+## October 2 (Sam Kovaka)
+
+Telomere-to-telomere assembly of a complete human X chromosome
+
+Karen H. Miga et al.
+
+doi: https://doi.org/10.1101/735928 bioRxiv (2019)
+
+## September 18 (Charlotte Darby)
+
+A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing
+
+Allegra A. Petti et al. 
+
+doi: https://doi.org/10.1038/s41467-019-11591-1 Nature Communications (2019)
 
 ## April 25 (Charlotte Darby)
 
@@ -256,19 +289,3 @@ Joel Rozowsky, Alexej Abyzov, Jing Wang, Pedro Alves, Debasish Raha, Arif Harman
 
 
 DOI https://doi.org/10.1038/msb.2011.54 Molecular Systems Biology (2011)
-
-## October 2 (Sam Kovaka)
-
-Telomere-to-telomere assembly of a complete human X chromosome
-
-Miga et al.
-
-DOI https://doi.org/10.1101/735928 BioRxiv (2019)
-
-## October 30 (Melanie Kirsche)
-
-Efficient chromosome-scale haplotype-resolved assembly of human genomes
-
-Shilpa Garg, Arkarachai Fungtammasan, Andrew Carroll, Mike Chou, Anthony Schmitt, Xiang Zhou, Stephen Mac, Paul Peluso, Emily Hatas, Jay Ghurye, Jared Maguire, Medhat Mahmoud, Haoyu Cheng, David Heller, Justin M. Zook, Tobias Moemke, Tobias Marschall, Fritz J. Sedlazeck, John Aach, Chen-Shan Chin, George M. Church, Heng Li
-
-DOI http://doi.org/10.1101/810341 BioRxiv (2019)
