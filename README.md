@@ -12,7 +12,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | February 12  | | |
 | February 26  | | |
 | March 11  | | |
-| March 25  | | |
+| March 25  | Mike Alonge | TBD | TBD
 | April 8  | | |
 | April 22 | | |
 | May 6 | | |
