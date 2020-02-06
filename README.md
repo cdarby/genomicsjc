@@ -9,7 +9,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
-| February 12  | | |
+| February 12  | Nae-Chyun Chen | TBD | TBD |
 | February 26  | | |
 | March 11  | | |
 | March 25  | Mike Alonge | TBD | TBD
