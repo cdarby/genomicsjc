@@ -9,14 +9,14 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
-| February 12  | Nae-Chyun Chen | TBD | TBD |
-| February 26  | | |
-| March 11  | | |
-| March 25  | Mike Alonge | TBD | TBD
-| April 8  | | |
-| April 22 | | |
-| May 6 | | |
-| May 20 | | |
+| February 12  | Nae-Chyun Chen | Malone 338 | TBD |
+| February 26  | | Malone 338 | | 
+| March 11  | | Malone 338 | | 
+| March 25  | Mike Alonge | Malone 338 | TBD
+| April 8  | | Malone 338 | | 
+| April 22 | | Malone 338 | | 
+| May 6 | | TBD | | 
+| May 20 | | Malone 338 | | 
 
 ## October 30 (Melanie Kirsche)
 
