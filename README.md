@@ -10,7 +10,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
 | February 12  | Nae-Chyun Chen | Malone 338 | TBD |
-| February 26  | | Malone 338 | | 
+| February 26  | Bohan Ni | Malone 338 | https://www.nature.com/articles/s41564-019-0656-6 | 
 | March 11  | | Malone 338 | | 
 | March 25  | Mike Alonge | Malone 338 | TBD
 | April 8  | | Malone 338 | | 
