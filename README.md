@@ -21,7 +21,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 ## February 12 (Nae-Chyun Chen)
 Distance Indexing and Seed Clustering in Sequence Graphs
 
-Chang et al.
+Xian Chang et al.
 
 doi: https://doi.org/10.1101/2019.12.20.884924 bioRxiv (2019)
 
