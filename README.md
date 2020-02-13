@@ -18,7 +18,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | May 6 | | TBD | | 
 | May 20 | | Malone 338 | | 
 
-## February 21 (Nae-Chyun Chen)
+## February 12 (Nae-Chyun Chen)
 Distance Indexing and Seed Clustering in Sequence Graphs
 
 Chang et al.
