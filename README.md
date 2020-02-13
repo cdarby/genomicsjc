@@ -9,7 +9,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 
 | Date  | Presenter | Location | Paper | 
 | ------------- | ------------- |  ------------- | ------------- |
-| February 12  | Nae-Chyun Chen | Malone 338 | TBD |
+| February 12  | Nae-Chyun Chen | Malone 338 | https://www.biorxiv.org/content/10.1101/2019.12.20.884924v1 |
 | February 26  | Bohan Ni | Malone 338 | https://www.nature.com/articles/s41564-019-0656-6 | 
 | March 11  | | Malone 338 | | 
 | March 25  | Mike Alonge | Malone 338 | https://www.biorxiv.org/content/10.1101/790279v1
@@ -17,6 +17,13 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | April 22 | | Malone 338 | | 
 | May 6 | | TBD | | 
 | May 20 | | Malone 338 | | 
+
+## February 21 (Nae-Chyun Chen)
+Distance Indexing and Seed Clustering in Sequence Graphs
+
+Chang et al.
+
+doi: https://doi.org/10.1101/2019.12.20.884924 bioRxiv (2019)
 
 ## October 30 (Melanie Kirsche)
 
