@@ -1,6 +1,7 @@
-# Genomics Journal Club
-Every other Wednesday 4:30-5:30PM, Johns Hopkins Homewood, Malone Hall  
-Contact Charlotte ```cdarby at jhu.edu``` if you are interested in joining us virtually!
+# Johns Hopkins University Genomics Journal Club
+
+We meet other Wednesday 4:30-5:30PM
+(03/11/2020) Journal club is meeting via Zoom until further notice.
 
 Current topic: Please volunteer to present any paper related to genomics!    
 
@@ -11,14 +12,40 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | ------------- | ------------- |  ------------- | ------------- |
 | February 12  | Nae-Chyun Chen | Malone 338 | https://www.biorxiv.org/content/10.1101/2019.12.20.884924v1 |
 | February 26  | Bohan Ni | Malone 338 | https://www.nature.com/articles/s41564-019-0656-6 | 
-| March 11  | | Malone 338 | | 
-| March 25  | Mike Alonge | Malone 338 | https://www.biorxiv.org/content/10.1101/790279v1
-| April 8  | | Malone 338 | | 
-| April 22 | | Malone 338 | | 
-| May 6 | | TBD | | 
-| May 20 | | Malone 338 | | 
+| March 11  | Sam Kovaka | Zoom | https://doi.org/10.1016/j.molcel.2012.10.016 | 
+| March 25  | Mike Alonge | Zoom | https://www.biorxiv.org/content/10.1101/790279v1 |
+| April 8  | Daniel Baker | Zoom | | 
+| April 22 | Samantha Zarate | Zoom | | 
+| May 6 | | Zoom | | 
+| May 20 | | Zoom | | 
+
+
+# March 25 (Mike Alonge)
+
+Massive haplotypes underlie ecotypic differentiation in sunflowers
+
+Marco Todesco et al.
+
+doi: https://doi.org/10.1101/790279 bioRxiv (2019)
+
+## March 11 (Sam Kovaka)
+
+Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates
+
+Gregory Hannum et al. 
+
+doi: https://doi.org/10.1016/j.molcel.2012.10.016 Molecular Cell (2013)
+
+## February 26 (Bohan Ni)
+
+Rapid inference of antibiotic resistance and susceptibility by genomic neighbour typing
+
+Karel Brinda et al.
+
+doi: https://doi.org/10.1038/s41564-019-0656-6 Nature Microbiology (2020)
 
 ## February 12 (Nae-Chyun Chen)
+
 Distance Indexing and Seed Clustering in Sequence Graphs
 
 Xian Chang et al.
