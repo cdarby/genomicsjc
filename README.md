@@ -14,11 +14,19 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | February 26  | Bohan Ni | Malone 338 | https://www.nature.com/articles/s41564-019-0656-6 | 
 | March 11  | Sam Kovaka | Zoom | https://doi.org/10.1016/j.molcel.2012.10.016 | 
 | March 25  | Mike Alonge | Zoom | https://www.biorxiv.org/content/10.1101/790279v1 |
-| April 8  | Daniel Baker | Zoom | | 
+| April 8  | Daniel Baker | Zoom | https://www.biorxiv.org/content/10.1101/852889v1 | 
 | April 22 | Samantha Zarate | Zoom | | 
 | May 6 | | Zoom | | 
 | May 20 | | Zoom | | 
 
+
+# April 8 (Daniel Baker)
+
+Diversified RACE Sampling on Data Streams Applied to Metagenomic Sequence Analysis
+
+Benjamin Coleman, Benito Geordie, Li Chou, R. A. Leo Elworth, Todd J. Treangen, Anshumali Shrivastava
+
+doi: https://doi.org/10.1101/852889 bioRxiv (2019)
 
 # March 25 (Mike Alonge)
 
