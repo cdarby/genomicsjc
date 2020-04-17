@@ -16,7 +16,7 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | March 25  | Mike Alonge | Zoom | https://www.biorxiv.org/content/10.1101/790279v1 |
 | April 8  | Daniel Baker | Zoom | https://www.biorxiv.org/content/10.1101/852889v1 | 
 | April 22 | Samantha Zarate | Zoom | | 
-| May 6 | | Zoom | | 
+| May 6 | Hirak Sarkar, UMDCS | Zoom | https://www.biorxiv.org/content/10.1101/2020.04.07.029967v1 | 
 | May 20 | | Zoom | | 
 
 
