@@ -15,10 +15,26 @@ Past topics: Graph genomes; Long read sequencing; Repetitive DNA and transposabl
 | March 11  | Sam Kovaka | Zoom | https://doi.org/10.1016/j.molcel.2012.10.016 | 
 | March 25  | Mike Alonge | Zoom | https://www.biorxiv.org/content/10.1101/790279v1 |
 | April 8  | Daniel Baker | Zoom | https://www.biorxiv.org/content/10.1101/852889v1 | 
-| April 22 | Samantha Zarate | Zoom | | 
-| May 6 | | Zoom | | 
+| April 22 | Samantha Zarate | Zoom | https://www.biorxiv.org/content/10.1101/2020.03.14.992248v1 | 
+| May 6 | Hirak Sarkar (Guest Speaker) | Zoom | https://www.biorxiv.org/content/10.1101/2020.04.07.029967v1 | 
 | May 20 | | Zoom | | 
 
+
+# May 6 (Hirak Sarkar - Guest Speaker) 
+
+Terminus enables the discovery of data-driven, robust transcript groups from RNA-seq data
+
+Hirak Sarkar, Avi Srivastava, Hector Corrada Bravo, Michael I Love, Rob Patro
+
+doi: https://doi.org/10.1101/2020.04.07.029967 bioRxiv (2020)
+
+# April 22 (Samantha Zarate)
+
+HiCanu: accurate assembly of segmental duplications, satellites, and allelic variants from high-fidelity long reads
+
+Sergey Nurk, Brian P. Walenz, Arang Rhie, Mitchell R. Vollger, Glennis A. Logsdon, Robert Grothe, Karen H. Miga, Evan E. Eichler, Adam M. Phillippy, Sergey Koren
+
+doi: https://doi.org/10.1101/2020.03.14.992248 bioRxiv (2020)
 
 # April 8 (Daniel Baker)
 
